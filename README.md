@@ -4,7 +4,7 @@ This project involves clustering passengers from the EastWest Airlines frequent 
 
 
 Project Steps:
-1. Data Preprocessing
+1. Data Preprocessing\
 Load the dataset from the CSV file.
 Drop unnecessary columns (e.g., ID) that do not contribute to clustering.
 Check for and handle missing values appropriately.
